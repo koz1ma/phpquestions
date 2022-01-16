@@ -48,6 +48,7 @@ class User {
     }
 }
 
+//Usage of class
 
 include 'database.php';
 $user = new User($pdo);
